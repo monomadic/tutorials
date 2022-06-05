@@ -1,0 +1,12 @@
+{
+  "name": "solana-wallet",
+  "version": "1.0.0",
+  "main": "src/index.ts",
+  "license": "MIT",
+  "scripts": {
+    "run": "ts-node src/main.js"
+  },
+  "dependencies": {
+    "@solana/web3.js": "^1.7.0"
+  }
+}
